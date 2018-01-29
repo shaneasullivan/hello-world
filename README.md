@@ -1,2 +1,2 @@
 # hello-world
-repo to get used to git
+I created a repo to get used to GitHub
